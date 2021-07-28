@@ -1,4 +1,4 @@
-# Hello World! <img src="https://media.giphy.com/media/41SIOpeqCfIru/giphy.gif" width="50px">
+# Hello World! <img src="https://media.giphy.com/media/41SIOpeqCfIru/giphy.gif" width="29px">
 <p align="center">
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
