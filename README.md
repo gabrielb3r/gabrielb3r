@@ -36,7 +36,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielb3r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### <img src="https://emoji.gg/assets/emoji/5541-running-pikachu.gif" alt="pikachu" width="55" height="55"/>a resposta para a pergunta fundamental sobre a vida, o universo e tudo mais:
-<p>42</p>
+### <img src="https://emoji.gg/assets/emoji/5541-running-pikachu.gif" alt="pikachu" width="55" height="55"/>A resposta para a pergunta fundamental sobre a vida, o universo e tudo mais:
+<p align="center">42</p>
+
 
 
