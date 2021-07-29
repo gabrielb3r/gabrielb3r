@@ -13,6 +13,7 @@
 
 - :man_student: Atualmente sou aluno do curso de Sistemas de Informação 
 - :construction_worker_man: Trabalho em uma empresa onde faço manutenção e atualizações em um sistema administrativo
+- :mage_man: Faço um curso de imersão Multi-Stack pela Treinaweb
 - :computer: Uso diariamente ```.PHP```,``` .JAVASCRIPT```, ```.SQL```
 - :rocket: Atualmente estou aprendendo a programar com o laravel e react
 - :video_game: Gamer nas horas vagas
