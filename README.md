@@ -1,16 +1,13 @@
-# Hello World! <img src="https://media.giphy.com/media/41SIOpeqCfIru/giphy.gif" width="29px">
+# Hello World! <img src="https://lh3.googleusercontent.com/Lb6gPaMRJPtgng26fVcqSJZEO-78dyMvAOa9nfKXxU2dpBMx5_lW9gHRT7eANzmF8JEZg_RoAnWrbh14OUAvzcyFqsaDEvvpC0T0rQ=w600" width="29px">
 
-<p align="center">
-      <a href="https://twitter.com/gabrielb3rnardo" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
-      <a href="https://linkedin.com/in/gabrielb3rnardo" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
-      <a href="https://hashnode.com/@apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg" alt="apoorvtyagi" height="20" width="20" /></a>
-      <a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
+
 
 <div align="center">
       <img align="center" alt="Buy me a Coffee" width="600px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/ddjk36s-36e736ed-a3f5-4ead-bc5a-2055ad79d8a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGRqazM2cy0zNmU3MzZlZC1hM2Y1LTRlYWQtYmM1YS0yMDU1YWQ3OWQ4YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pgxwYJcrj6fKZmowAdX5HbdvaHWItqxLpSim41_sgC4" />
 
 </div>
+
+
 
 ### <img src="https://emoji.gg/assets/emoji/5541-running-pikachu.gif" alt="pikachu" width="55" height="55"/>Sobre mim:
 
@@ -39,5 +36,10 @@
 ### <img src="https://emoji.gg/assets/emoji/5541-running-pikachu.gif" alt="pikachu" width="55" height="55"/>A resposta para a pergunta fundamental sobre a vida, o universo e tudo mais:
 <p align="center">42</p>
 
-
+---
+<p align="center">
+      <a href="https://twitter.com/gabrielb3rnardo" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="apoorv__tyagi" height="33" width="33" /></a>&nbsp;
+      <a href="https://linkedin.com/in/gabrielb3rnardo" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="apoorvtyagi" height="33" width="33" /></a>&nbsp;
+      
+</p>
 
