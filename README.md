@@ -13,9 +13,8 @@
 
 - :man_student: Atualmente sou aluno do curso de Sistemas de Informação 
 - :construction_worker_man: Trabalho em uma empresa onde faço manutenção e atualizações em um sistema administrativo
-- :mage_man: Faço um curso de imersão Multi-Stack pela Treinaweb
-- :computer: Uso diariamente ```.PHP```,``` .JAVASCRIPT```, ```.SQL```
-- :rocket: Atualmente estou aprendendo a programar com o laravel e react
+- :mage_man: Futuro desenvovedor FullStack
+- :rocket: Estudando ``` .JAVASCRIPT``` e ```.CSS```
 - :video_game: Gamer nas horas vagas
 
 <p align="center">
@@ -34,12 +33,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielb3r&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### <img src="https://emoji.gg/assets/emoji/5541-running-pikachu.gif" alt="pikachu" width="55" height="55"/>A resposta para a pergunta fundamental sobre a vida, o universo e tudo mais:
-<p align="center">42</p>
-
----
 <p align="center">
-      <a href="https://twitter.com/gabrielb3rnardo" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="apoorv__tyagi" height="33" width="33" /></a>&nbsp;
+      <a href="https://twitter.com/devb3r" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="apoorv__tyagi" height="33" width="33" /></a>&nbsp;
       <a href="https://linkedin.com/in/gabrielb3rnardo" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="apoorvtyagi" height="33" width="33" /></a>&nbsp;
       
 </p>
