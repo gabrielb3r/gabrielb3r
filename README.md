@@ -14,18 +14,8 @@
 - :man_student: Atualmente sou aluno do curso de Sistemas de Informação 
 - :construction_worker_man: Trabalho em uma empresa onde faço manutenção e atualizações em um sistema administrativo
 - :mage_man: Futuro desenvovedor FullStack
-- :rocket: Estudando ``` .JAVASCRIPT``` e ```.CSS```
+- :rocket: Estudando ``` .JAVASCRIPT``` 
 - :video_game: Gamer nas horas vagas
-
-<p align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="php" width="55" height="55"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" width="55" height="55"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="55" height="55"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="55" height="55"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55"/> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/> 
-</p>
 
 ---
 ### <img src="https://emoji.gg/assets/emoji/5541-running-pikachu.gif" alt="pikachu" width="55" height="55"/> Minhas estatísticas do Github:
