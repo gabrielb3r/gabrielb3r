@@ -1,4 +1,4 @@
-# Hello World! <img src="https://lh3.googleusercontent.com/Lb6gPaMRJPtgng26fVcqSJZEO-78dyMvAOa9nfKXxU2dpBMx5_lW9gHRT7eANzmF8JEZg_RoAnWrbh14OUAvzcyFqsaDEvvpC0T0rQ=w600" width="29px">
+# Olá, este é o tal do meu perfil <img src="https://lh3.googleusercontent.com/Lb6gPaMRJPtgng26fVcqSJZEO-78dyMvAOa9nfKXxU2dpBMx5_lW9gHRT7eANzmF8JEZg_RoAnWrbh14OUAvzcyFqsaDEvvpC0T0rQ=w600" width="29px">
 
 
 
@@ -29,3 +29,4 @@
       
 </p>
 
+<p align="center"> <strong>Até mais, e obrigado pelos peixes!</strong> </p>
